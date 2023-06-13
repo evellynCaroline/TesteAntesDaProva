@@ -1,0 +1,6 @@
+C:\Users\2022102020013.IFRO\Desktop\poo\atividadeform3\atividadeform3\obj\Debug\atividadeform3.csproj.AssemblyReference.cache
+C:\Users\2022102020013.IFRO\Desktop\poo\atividadeform3\atividadeform3\obj\Debug\atividadeform3.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020013.IFRO\Desktop\poo\atividadeform3\atividadeform3\obj\Debug\atividadeform3.Form1.resources
+C:\Users\2022102020013.IFRO\Desktop\poo\atividadeform3\atividadeform3\obj\Debug\atividadeform3.Properties.Resources.resources
+C:\Users\2022102020013.IFRO\Desktop\poo\atividadeform3\atividadeform3\obj\Debug\atividadeform3.csproj.GenerateResource.cache
+C:\Users\2022102020013.IFRO\Desktop\poo\atividadeform3\atividadeform3\obj\Debug\atividadeform3.csproj.CoreCompileInputs.cache
